@@ -14,3 +14,8 @@ This contains everything you need to run your app locally.
 2. Set the API_KEY in .env.local to your project API key
 3. Run the app:
    `npm run dev`
+
+**When the application is running:** 
+   Admin account details:
+   Username: `admin`
+   Password: `admin123`

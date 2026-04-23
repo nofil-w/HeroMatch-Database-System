@@ -15,7 +15,8 @@ This contains everything you need to run your app locally.
 3. Run the app:
    `npm run dev`
 
-**When the application is running:**  
-   Admin account details:  
-   Username: `admin`  
-   Password: `admin123`  
+**When the application is running:**
+
+    Admin account details:
+    Username: `admin`
+    Password: `admin123`

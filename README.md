@@ -18,5 +18,5 @@ This contains everything you need to run your app locally.
 **When the application is running:**
 
 Admin account details:  
-    Username: `admin`
-    Password: `admin123`
+   Username: `admin`  
+   Password: `admin123`
